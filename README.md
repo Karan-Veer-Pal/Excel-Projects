@@ -67,22 +67,9 @@ The dataset contains information such as:
 
 📸 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
-Then use:
 ![Sales Dashboard](images/dashboard.png)
 
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
-
----
+![Sales Dashboard](images/dashboard.png)
 
 📌 Learning Outcome
 
