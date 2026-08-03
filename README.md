@@ -69,8 +69,6 @@ The dataset contains information such as:
 
 ![Sales Dashboard](images/dashboard.png)
 
-![Sales Dashboard](images/dashboard.png)
-
 📌 Learning Outcome
 
 This project helped me improve my skills in:
@@ -85,3 +83,4 @@ This project helped me improve my skills in:
 If you like this project, feel free to ⭐ this repository and connect with me on LinkedIn.
 
 ⭐ If you found this project helpful, don't forget to star the repository.
+![Sales Dashboard](images/dashboard.png)
