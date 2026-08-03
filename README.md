@@ -76,6 +76,7 @@ images/dashboard.png
 ```
 
 Then use:
+![Sales Dashboard](images/dashboard.png)
 
 ```markdown
 ![Dashboard Preview](images/dashboard.png)
