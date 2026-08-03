@@ -67,7 +67,8 @@ The dataset contains information such as:
 
 📸 Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](images/dashboard1.png)
+![Sales Dashboard](images/dashboard2.png)
 
 📌 Learning Outcome
 
