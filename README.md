@@ -28,6 +28,9 @@ The dataset contains information such as:
 - Target Hit %
 - Away From Target %
 
+Raw Data:
+![Sales Dashboard](images/raw_data.png)
+
 📈 Dashboard Features
 ✅ Interactive Dashboard
 ✅ Pivot Tables
